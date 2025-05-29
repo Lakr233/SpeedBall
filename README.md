@@ -1,4 +1,4 @@
-# SpeedBall
+# The Speed Ball
 
 Bring back the old 90's floating speed ball to your Mac with some how morden design.
 
@@ -6,9 +6,13 @@ Bring back the old 90's floating speed ball to your Mac with some how morden des
 
 ![SpeedBall Preview](./Resources/preview.png)
 
-## System Requirements
+## Installation
 
-- macOS 15.0
+This app requires macOS 15.0 or later. You can download the latest release of SpeedBall from the [App Store](https://apps.apple.com/us/app/the-speed-ball/id6746576719)
+
+[![App Store Icon](./Resources/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg)](https://apps.apple.com/us/app/sentry-just-step-away/id6746349629)
+
+If you dont wanna buy it from App Store, you can also build it from source. In that case, this app is free.
 
 ## Features
 
