@@ -1,0 +1,45 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "🚀" : {
+      "shouldTranslate" : false
+    },
+    "Cleaned %@ of memory." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "已清理 %@ 的内存。"
+          }
+        }
+      }
+    },
+    "Cleaned memory." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "已清理内存。"
+          }
+        }
+      }
+    },
+    "Version: %@.%@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Version: %1$@.%2$@"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "版本 %1$@.%2$@"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

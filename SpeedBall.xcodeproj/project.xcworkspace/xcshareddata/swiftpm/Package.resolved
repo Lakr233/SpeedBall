@@ -1,0 +1,51 @@
+{
+  "originHash" : "1a8e37d4073688f4848d0db56c05d3429d65c07c0f6d5748399cfa62d1ff21f2",
+  "pins" : [
+    {
+      "identity" : "colorfulx",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Lakr233/ColorfulX",
+      "state" : {
+        "revision" : "72101a9f6447c1dd6a44a95d50c875e77e7adada",
+        "version" : "5.6.6"
+      }
+    },
+    {
+      "identity" : "colorvector",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Lakr233/ColorVector.git",
+      "state" : {
+        "revision" : "6da8726bf38d68eb943d0f2139ac2a1fac70e65b",
+        "version" : "1.0.4"
+      }
+    },
+    {
+      "identity" : "msdisplaylink",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Lakr233/MSDisplayLink.git",
+      "state" : {
+        "revision" : "ebf5823cb5fc1326639d9a05bc06d16bbe82989f",
+        "version" : "2.0.8"
+      }
+    },
+    {
+      "identity" : "skylightwindow",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Lakr233/SkyLightWindow",
+      "state" : {
+        "revision" : "b7bd99f62a0673a99bed4bfd31098ca1dcdd10eb",
+        "version" : "1.0.0"
+      }
+    },
+    {
+      "identity" : "springinterpolation",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Lakr233/SpringInterpolation.git",
+      "state" : {
+        "revision" : "f9ae95ece5d6b7cdceafd4381f1d5f0f9494e5d2",
+        "version" : "1.3.1"
+      }
+    }
+  ],
+  "version" : 3
+}
